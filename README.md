@@ -1,6 +1,8 @@
 # Routing
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.0
+
+This was created as part of Angular - The Complete Guide (2025 Edition) course on UDemy. Repurposed to experiment with Azure Static Web Apps.
 
 ## Development server
 
